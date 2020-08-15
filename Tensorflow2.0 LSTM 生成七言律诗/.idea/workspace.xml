@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5470179-c650-4ed8-b82c-60ab68230acd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eLmSIYFPI3nl0f813vn91qIvaD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.data_util">
+    <configuration name="data_util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tensorflow2.0 LTM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="peom_LSTM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tensorflow2.0 LTM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/peom_LSTM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="poem_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tensorflow2.0 LTM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poem_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_poems" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tensorflow2.0 LTM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_poems.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="word_vec" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tensorflow2.0 LTM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/word_vec.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.data_util" />
+        <item itemvalue="Python.peom_LSTM" />
+        <item itemvalue="Python.poem_model" />
+        <item itemvalue="Python.read_poems" />
+        <item itemvalue="Python.word_vec" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5470179-c650-4ed8-b82c-60ab68230acd" name="Default Changelist" comment="" />
+      <created>1594109246459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594109246459</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Inspections" timestamp="1594109363534">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/-1366.311.1093.582/0.0.1920.1040@0.0.1920.1040" timestamp="1594109363534" />
+    <state width="1899" height="411" key="GridCell.Tab.0.bottom" timestamp="1596821699329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="411" key="GridCell.Tab.0.bottom/-1366.311.1093.582/0.0.1920.1040@0.0.1920.1040" timestamp="1596821699329" />
+    <state width="1899" height="411" key="GridCell.Tab.0.center" timestamp="1596821699329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="411" key="GridCell.Tab.0.center/-1366.311.1093.582/0.0.1920.1040@0.0.1920.1040" timestamp="1596821699329" />
+    <state width="1899" height="411" key="GridCell.Tab.0.left" timestamp="1596821699329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="411" key="GridCell.Tab.0.left/-1366.311.1093.582/0.0.1920.1040@0.0.1920.1040" timestamp="1596821699329" />
+    <state width="1899" height="411" key="GridCell.Tab.0.right" timestamp="1596821699329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="411" key="GridCell.Tab.0.right/-1366.311.1093.582/0.0.1920.1040@0.0.1920.1040" timestamp="1596821699329" />
+    <state width="1899" height="375" key="GridCell.Tab.1.bottom" timestamp="1594135162048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.bottom/-1366.311.1093.582/0.0.1920.1040@0.0.1920.1040" timestamp="1594135162048" />
+    <state width="1899" height="375" key="GridCell.Tab.1.center" timestamp="1594135162048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.center/-1366.311.1093.582/0.0.1920.1040@0.0.1920.1040" timestamp="1594135162048" />
+    <state width="1899" height="375" key="GridCell.Tab.1.left" timestamp="1594135162048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.left/-1366.311.1093.582/0.0.1920.1040@0.0.1920.1040" timestamp="1594135162048" />
+    <state width="1899" height="375" key="GridCell.Tab.1.right" timestamp="1594135162048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.right/-1366.311.1093.582/0.0.1920.1040@0.0.1920.1040" timestamp="1594135162048" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1594109373091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/-1366.311.1093.582/0.0.1920.1040@0.0.1920.1040" timestamp="1594109373091" />
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1596814715696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/-1366.311.1093.582/0.0.1920.1040@0.0.1920.1040" timestamp="1596814715696" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594110306731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1366.311.1093.582/0.0.1920.1040@0.0.1920.1040" timestamp="1594110306731" />
+  </component>
+</project>
